@@ -6,8 +6,8 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
   {
-    enunciado: "Pergunta 1",
-    alternativas: ["Alternativa 1", "Alternativa 2"],
+    enunciado: "Qual evento marcou o início da Nova Ordem Mundial, caracterizada por uma estrutura geopolítica multipolar?",
+    alternativas: ["Fim da Guerra Fria", "AAssinatura do Tratado de Versalhes"],
   },
   {
     enunciado: "Pergunta 2",
