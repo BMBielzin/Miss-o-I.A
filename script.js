@@ -10,19 +10,19 @@ const perguntas = [
     alternativas: ["Fim da Guerra Fria", "AAssinatura do Tratado de Versalhes"],
   },
   {
-    enunciado: "Pergunta 2",
-    alternativas: ["Alternativa 1", "Alternativa 2"],
+    enunciado: "Qual dos seguintes países do Oriente Médio não faz parte da Organização dos Países Exportadores de Petróleo (OPEP)?",
+    alternativas: ["Irã", "Israel"],
   },
   {
-    enunciado: "Pergunta 3",
-    alternativas: ["Alternativa 1", "Alternativa 2"],
+    enunciado: "Qual é o principal fator responsável pelo rápido envelhecimento da população brasileira nas últimas décadas?",
+    alternativas: ["Aumento da expectativa de vida e redução da taxa de fecundidade", "Migração em massa de idosos para áreas urbanas"],
   },
   {
-    enunciado: "Pergunta 4",
-    alternativas: ["Alternativa 1", "Alternativa 2"],
+    enunciado: "Qual país é conhecido por sua política de neutralidade e por sediar importantes organizações internacionais, como a Cruz Vermelha e partes da ONU?",
+    alternativas: ["Suíça", "Alemanha"],
   },
   {
-    enunciado: "Pergunta 5",
-    alternativas: ["Alternativa 1", "Alternativa 2"],
+    enunciado: "Qual evento histórico marcou o início da Revolução Francesa em 1789?",
+    alternativas: ["Queda da Bastilha", "Coronamento de Napoleão Bonaparte"],
   },
 ];
